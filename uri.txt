@@ -1,0 +1,1 @@
+mongodb://myhopstats:9131554693549170@localhost:27017/?authSource=sonic-carhop
