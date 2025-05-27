@@ -1,1 +1,4 @@
+quinn
 pJX4aoFj7LutwmBV
+
+mongodb+srv://quinn:pJX4aoFj7LutwmBV@myhopstats.kf9thgu.mongodb.net/?retryWrites=true&w=majority&appName=myhopstats
